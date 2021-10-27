@@ -15,8 +15,8 @@ Part 1: Using Naïve Bayes to work with Text Data
 #Examine the vocabulary and document-term matrix together
 
 #Transform testing data into a document-term matrix (using existing vocabulary)
-#       use the test data as:
-#       simple_test = ["please don't call me"]
+USE THE TEST DATA AS 
+SAMPLE = ["PLEASE DONT CALL ME"]
 
 #Examine the vocabulary and document-term matrix together
 
